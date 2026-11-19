@@ -3,7 +3,7 @@
     {
       "file": "videos/enzyme.mp4",
       "duration_seconds": 114.0,
-      "bytes": 987125,
+      "bytes": 987362,
       "width": 1280,
       "height": 864,
       "fps": "15/1",
@@ -13,7 +13,7 @@
     {
       "file": "videos/half_life.mp4",
       "duration_seconds": 114.0,
-      "bytes": 687318,
+      "bytes": 687173,
       "width": 1280,
       "height": 864,
       "fps": "15/1",
@@ -23,7 +23,7 @@
     {
       "file": "videos/heating.mp4",
       "duration_seconds": 113.533333,
-      "bytes": 1195471,
+      "bytes": 1195415,
       "width": 1280,
       "height": 864,
       "fps": "15/1",
@@ -33,7 +33,7 @@
     {
       "file": "videos/ledger.mp4",
       "duration_seconds": 114.0,
-      "bytes": 664533,
+      "bytes": 664910,
       "width": 1280,
       "height": 864,
       "fps": "15/1",
@@ -43,7 +43,7 @@
     {
       "file": "videos/liability.mp4",
       "duration_seconds": 114.0,
-      "bytes": 770172,
+      "bytes": 770582,
       "width": 1280,
       "height": 864,
       "fps": "15/1",
@@ -53,7 +53,7 @@
     {
       "file": "videos/logic.mp4",
       "duration_seconds": 114.0,
-      "bytes": 723044,
+      "bytes": 722966,
       "width": 1280,
       "height": 864,
       "fps": "15/1",
@@ -63,7 +63,7 @@
     {
       "file": "videos/overview.mp4",
       "duration_seconds": 117.266667,
-      "bytes": 912006,
+      "bytes": 911227,
       "width": 1280,
       "height": 864,
       "fps": "15/1",
@@ -73,7 +73,7 @@
     {
       "file": "videos/refraction.mp4",
       "duration_seconds": 114.0,
-      "bytes": 823154,
+      "bytes": 823603,
       "width": 1280,
       "height": 864,
       "fps": "15/1",
