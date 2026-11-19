@@ -4,9 +4,9 @@
 
 Parhhai Likhai is building animated lessons in which the learner can watch a process happen. Switches control a lamp. An enzyme binds a matching substrate and releases products. Water changes phase while its temperature graph follows the same state.
 
-**[Watch the two-minute walkthrough](videos/overview.mp4)** · **[See the current development stage](STATUS.md)** · **[Inspect the validation evidence](evidence/validation.json)**
+**[Watch the demos](https://qasimahmad-khan.github.io/parhhai-likhai/)** · **[See the current development stage](STATUS.md)** · **[Inspect the validation evidence](evidence/validation.json)**
 
-[![Logic switches, computed output, and truth table](images/logic/mechanism_middle.png)](videos/overview.mp4)
+[![Logic switches, computed output, and truth table](images/logic/mechanism_middle.png)](https://qasimahmad-khan.github.io/parhhai-likhai/)
 
 ## Start with these demos
 
