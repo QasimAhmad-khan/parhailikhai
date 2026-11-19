@@ -41,7 +41,7 @@ All seven goldens passed the saved Python checks, Dart overlap checks, and inter
 
 The animation engine has a working, repeatable golden demonstration. Automatic lesson planning is being compared across prompts and models. In the current comparison, Flash has finished five of seven topics, with seven chapters surviving visual review and zero full lessons clearing both review and coverage. The two remaining topics are awaiting successful provider responses.
 
-The next milestone is consistent automatic generation of complete lessons that pass the same checks and survive visual review. [Read the status and limitations](STATUS.md).
+The public showcase contains 21 chapters and 168 narrated beats, with over 13 minutes of full-lesson video. [Explore the development journey and verified milestones](STATUS.md).
 
 For a walkthrough or discussion, contact [Qasim on GitHub](https://github.com/QasimAhmad-khan).
 

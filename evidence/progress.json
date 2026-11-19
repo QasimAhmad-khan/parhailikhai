@@ -1,0 +1,147 @@
+{
+  "snapshot_date": "2026-11-19",
+  "project": "Parhai Likhai",
+  "current_golden_showcase": {
+    "lessons": 7,
+    "chapters": 21.0,
+    "narrated_beats": 168,
+    "moving_layers": 239.0,
+    "full_lesson_video_seconds": 797.533333,
+    "full_lesson_videos": 7,
+    "walkthrough_videos": 1,
+    "sample_frames": 63,
+    "contact_sheets": 7,
+    "coverage_passes": 4,
+    "authoring": "Hand-authored golden plans",
+    "details": "validation.json and media.json"
+  },
+  "history": {
+    "legacy_audit": {
+      "source": "legacy-audit",
+      "animated_concepts_measured": 115,
+      "concepts": 125,
+      "packages": 26,
+      "concepts_with_findings": 66,
+      "widths_px": [
+        390,
+        1280
+      ]
+    },
+    "broad_topic_baseline": {
+      "remaining_compilation_failures": 1,
+      "source": "broad-baseline",
+      "slide_fallbacks": 23,
+      "topics": 24
+    },
+    "early_general_trials": {
+      "later_compiling_responses": 3,
+      "initial_topics": 3,
+      "initial_accepted_topics": 0,
+      "additional_model_calls_for_replay": 0,
+      "source": "early-trial",
+      "later_replayed_responses": 18
+    },
+    "first_operating_goldens": {
+      "lessons": 3,
+      "chapters": 9.0,
+      "sources": [
+        "first-operating-goldens",
+        "first-player-capture"
+      ],
+      "player_frames": 54,
+      "python_findings": 0,
+      "dart_findings": 0,
+      "accepted_lessons": 3
+    },
+    "historical_automatic_enzyme": {
+      "fidelity": "FAITHFUL",
+      "full_lesson_survived_review": true,
+      "planner_cost_usd": 0.0216,
+      "model_responses": 10,
+      "truth": "CLEAN",
+      "physical_planner_requests": 10,
+      "cost_scope": "Recorded planner cost for this attempt; excludes separate judging, audio, hosting and engineering. Historical acceptance under that run engine and checks.",
+      "full_lesson": true,
+      "accepted_chapters": 3,
+      "coverage_passed": true,
+      "sources": [
+        "historical-auto-trial",
+        "historical-auto-review"
+      ]
+    }
+  },
+  "engineering_checks": {
+    "tools_passed": 595,
+    "deterministic_replay_rejections": 1326,
+    "replayed_responses": 1536,
+    "sources": [
+      "tools-rerun",
+      "stored-replay"
+    ],
+    "tools_checked_on": "2026-11-16",
+    "deterministic_replay_passes": 210,
+    "known_stale_failures": 1,
+    "new_planner_calls_for_replay": 0
+  },
+  "latest_automatic_review": {
+    "review_sheets": 22,
+    "review_frames": 114,
+    "all_accepted_chapters_reviewed_on_phone_and_desktop": true,
+    "source": "latest-review",
+    "comparison": "validation.json",
+    "gate_accepted_chapters": 19
+  },
+  "source_fingerprints": [
+    {
+      "id": "legacy-audit",
+      "record": "Retained legacy lesson audit",
+      "sha256": "ed5081bffa3b63f1e6f3efe52c7ca7a12b5de9ffc6875e67496fd10d471f05c6"
+    },
+    {
+      "id": "broad-baseline",
+      "record": "Frozen broad-topic baseline",
+      "sha256": "6c8b983f60ea4c500ebd0174d6d8ecd9e6228c9d03f84adca6b74c288082f290"
+    },
+    {
+      "id": "early-trial",
+      "record": "Engineering report 20, initial trial and Rerun 3",
+      "sha256": "48556aa93d5270dad3cf4af901daee0aff783115b73c42aa6d61a36abf0a0fe4"
+    },
+    {
+      "id": "first-operating-goldens",
+      "record": "First operating golden gate results",
+      "sha256": "a1cd737c51521233bcc2ebf59ae63eb83e9bb6f4e8fd7c973e9819352cbed8cd"
+    },
+    {
+      "id": "first-player-capture",
+      "record": "First operating golden player frame manifest",
+      "sha256": "731d278dad4588e61ffd92dc5c5e3b96eec0c944b166c2f2b45626042f39ea04"
+    },
+    {
+      "id": "historical-auto-trial",
+      "record": "Earlier automatic generation trial results",
+      "sha256": "92418220c7ab5156c000e1ec579bac3a31e24246dccd3936b90bc47a90c21a71"
+    },
+    {
+      "id": "historical-auto-review",
+      "record": "Earlier automatic generation visual review",
+      "sha256": "e9320973b976f7a24ced52db6136f3ec91e725a56aab4720b53ce172a28c213f"
+    },
+    {
+      "id": "stored-replay",
+      "record": "Latest frozen archived-response replay",
+      "sha256": "d60db44eda5ed2c2bf1097a74f2ae7d52735ef9f798290ec89c6fbde7b1ee154"
+    },
+    {
+      "id": "tools-rerun",
+      "record": "Tools test rerun, 16 November 2026",
+      "sha256": "ed69fcacb2d055f27bcaffd171e8a6c8db55f2c374ccac231ecb74c10f86552e"
+    },
+    {
+      "id": "latest-review",
+      "record": "Latest frozen cohort review verification",
+      "sha256": "646b26d64406464e2392914145a9b6e3f287723117d33d31ce307669c2096230"
+    }
+  ],
+  "verification_scope": "Derived from retained engineering records and published demo measurements. Historical milestones retain their original engine, gates and review scope. Broad baseline, hand-authored goldens and model trials are different sets. These records do not establish student learning outcomes or a comparable before/after benchmark rate."
+}
