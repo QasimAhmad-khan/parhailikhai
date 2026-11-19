@@ -1,0 +1,86 @@
+{
+  "videos": [
+    {
+      "file": "videos/enzyme.mp4",
+      "duration_seconds": 114.0,
+      "bytes": 987125,
+      "width": 1280,
+      "height": 864,
+      "fps": "15/1",
+      "codec": "h264",
+      "audio": "silent"
+    },
+    {
+      "file": "videos/half_life.mp4",
+      "duration_seconds": 114.0,
+      "bytes": 687318,
+      "width": 1280,
+      "height": 864,
+      "fps": "15/1",
+      "codec": "h264",
+      "audio": "silent"
+    },
+    {
+      "file": "videos/heating.mp4",
+      "duration_seconds": 113.533333,
+      "bytes": 1195471,
+      "width": 1280,
+      "height": 864,
+      "fps": "15/1",
+      "codec": "h264",
+      "audio": "silent"
+    },
+    {
+      "file": "videos/ledger.mp4",
+      "duration_seconds": 114.0,
+      "bytes": 664533,
+      "width": 1280,
+      "height": 864,
+      "fps": "15/1",
+      "codec": "h264",
+      "audio": "silent"
+    },
+    {
+      "file": "videos/liability.mp4",
+      "duration_seconds": 114.0,
+      "bytes": 770172,
+      "width": 1280,
+      "height": 864,
+      "fps": "15/1",
+      "codec": "h264",
+      "audio": "silent"
+    },
+    {
+      "file": "videos/logic.mp4",
+      "duration_seconds": 114.0,
+      "bytes": 723044,
+      "width": 1280,
+      "height": 864,
+      "fps": "15/1",
+      "codec": "h264",
+      "audio": "silent"
+    },
+    {
+      "file": "videos/overview.mp4",
+      "duration_seconds": 117.266667,
+      "bytes": 912006,
+      "width": 1280,
+      "height": 864,
+      "fps": "15/1",
+      "codec": "h264",
+      "audio": "silent"
+    },
+    {
+      "file": "videos/refraction.mp4",
+      "duration_seconds": 114.0,
+      "bytes": 823154,
+      "width": 1280,
+      "height": 864,
+      "fps": "15/1",
+      "codec": "h264",
+      "audio": "silent"
+    }
+  ],
+  "golden_contact_sheets": 7,
+  "golden_still_frames": 63
+}
